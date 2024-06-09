@@ -31,13 +31,13 @@ export default function PokemonComponent(props: Props) {
               </tr>
 
               <tr className="property-row">
-                <td>Attack</td>
-                <td>{pokemon.attack}</td>
-              </tr>
-
-            <tr className="property-row">
                 <td>Health Points</td>
                 <td>{pokemon.healthPoints}</td>
+              </tr>
+
+              <tr className="property-row">
+                <td>Attack</td>
+                <td>{pokemon.attack}</td>
               </tr>
 
               <tr className="property-row">
