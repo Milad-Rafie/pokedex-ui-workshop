@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
+body {
+  background-color: #c8e6c9;
+  padding-bottom: 30px;
+}
+
 .pokemon-number {
   font-size: 24px;
   color: #18a457; 
